@@ -39,7 +39,8 @@ const socialMediaLinks = {
 // Skills Section
 const skillsSection = {
   title: "What I do",
-  subTitle: "PASSIONATE BACKEND DEVELOPER EXPLORING THE WORLD OF MACHINE LEARNING",
+  subTitle:
+    "PASSIONATE BACKEND DEVELOPER EXPLORING THE WORLD OF MACHINE LEARNING",
   skills: [
     emoji(
       "⚡ Develop robust backend services using Node.js, Firebase, and Spring Boot"
@@ -127,10 +128,12 @@ const resumeSection = {
 // Contact Info Section
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
+  subtitle:
+    "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+8801760830558", // Update this to your real number
   email_address: "nabid.hasan987@gmail.com" // Update this to your real email
 };
+//kkk
 
 const isHireable = true; // Set false if you are not looking for a job
 
