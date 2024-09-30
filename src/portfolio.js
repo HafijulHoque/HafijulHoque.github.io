@@ -40,17 +40,31 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle:
-    "PASSIONATE BACKEND DEVELOPER EXPLORING THE WORLD OF MACHINE LEARNING",
+    "During my undergraduate years at BUET, I worked on diverse projects ranging from game development to web applications, showcasing my expertise in various frameworks and technologies.",
   skills: [
     emoji(
-      "⚡ Develop robust backend services using Node.js, Firebase, and Spring Boot"
-    ),
-    emoji("⚡ Design and manage scalable databases and server architectures"),
-    emoji(
-      "⚡ Integration of third-party services and APIs for seamless application performance"
+      "⚡ Developed a complete game **CATCH THE EGG** in C using OpenGL, implementing game mechanics, user interaction, and graphics rendering"
     ),
     emoji(
-      "⚡ Enthusiast in machine learning and large language models (LLMs), exploring their applications in real-world problems"
+      "⚡ Built a real-time interactive project using **JavaFX** with networking essentials, facilitating client-server communication"
+    ),
+    emoji(
+      "⚡ Designed and implemented a comprehensive database project using **Node.js**, **Oracle DB**, and **EJS**, focusing on database management and dynamic web content"
+    ),
+    emoji(
+      "⚡ Developed threading mechanisms and memory management for the **xv6 operating system**, improving multitasking and process synchronization"
+    ),
+    emoji(
+      "⚡ Created a complete **ray tracing and rasterization pipeline** using **OpenGL** for advanced 3D graphics rendering"
+    ),
+    emoji(
+      "⚡ Built **UrbanNest**, a full-stack web application for buying and selling apartments using **Node.js**, **PostgreSQL**, and **React**"
+    ),
+    emoji(
+      "⚡ Developed a subset of a **C compiler**, implementing lexical analysis, parsing, and code generation"
+    ),
+    emoji(
+      "⚡ Built a doctor appointment booking system using **Spring Boot** with integrated scheduling and management functionalities"
     )
   ],
   softwareSkills: [
@@ -97,16 +111,20 @@ const techStack = {
   viewSkillBars: true, // Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Backend Development", // Insert stack or technology you have experience in
+      Stack: "Backend Development (Node.js, Spring Boot, Python, C, C++)", // Insert stack or technology you have experience in
       progressPercentage: "85%" // Insert relative proficiency in percentage
     },
     {
-      Stack: "Machine Learning & LLMs",
-      progressPercentage: "65%"
+      Stack: "Frontend Development (React, Svelte, JavaFX)",
+      progressPercentage: "75%"
     },
     {
-      Stack: "Databases",
+      Stack: "Databases (PostgreSQL, MongoDB, Oracle)",
       progressPercentage: "75%"
+    },
+    {
+      Stack: "Machine Learning & LLMs (PyTorch)",
+      progressPercentage: "65%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section
