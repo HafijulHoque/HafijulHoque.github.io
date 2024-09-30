@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Nabidbhai12.github.io-portfolio/static/css/main.cb39fb96.css",
+    "main.js": "/Nabidbhai12.github.io-portfolio/static/js/main.d319564f.js",
+    "static/css/64.bba8fa55.chunk.css": "/Nabidbhai12.github.io-portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.98920275.chunk.js": "/Nabidbhai12.github.io-portfolio/static/js/64.98920275.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/Nabidbhai12.github.io-portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.88165ab4.chunk.js": "/Nabidbhai12.github.io-portfolio/static/js/769.88165ab4.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/Nabidbhai12.github.io-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/Nabidbhai12.github.io-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/Nabidbhai12.github.io-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/Nabidbhai12.github.io-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/Nabidbhai12.github.io-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/Nabidbhai12.github.io-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/Nabidbhai12.github.io-portfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/Nabidbhai12.github.io-portfolio/index.html",
+    "main.cb39fb96.css.map": "/Nabidbhai12.github.io-portfolio/static/css/main.cb39fb96.css.map",
+    "main.d319564f.js.map": "/Nabidbhai12.github.io-portfolio/static/js/main.d319564f.js.map",
+    "64.bba8fa55.chunk.css.map": "/Nabidbhai12.github.io-portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.98920275.chunk.js.map": "/Nabidbhai12.github.io-portfolio/static/js/64.98920275.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/Nabidbhai12.github.io-portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.88165ab4.chunk.js.map": "/Nabidbhai12.github.io-portfolio/static/js/769.88165ab4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb39fb96.css",
+    "static/js/main.d319564f.js"
+  ]
+}
